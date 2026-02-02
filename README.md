@@ -19,7 +19,7 @@ I enjoy building functional interfaces and experimenting with automation and AI-
 ## Objetivos / Goals
 
 - Atuar profissionalmente como desenvolvedor web / software developer  
-- Evoluir constantemente em JavaScript, Front-end e Full Stack  
+- Evoluir constantemente em Full Stack
 - Construir projetos sólidos para portfólio e mercado  
 
 ---

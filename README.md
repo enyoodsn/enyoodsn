@@ -1,4 +1,4 @@
-## Enyo Moraes — Hi there! / Opa!
+## Enyo Moraes — Hi there! / Opa! 👋
 
 Designer formado e Desenvolvedor Full Stack em formação, apaixonado por tecnologia, design e soluções criativas.
 Atualmente cursando ADS e UX/UI Design.

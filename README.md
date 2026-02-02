@@ -63,15 +63,9 @@ Permite gerar backgrounds personalizados a partir da combinação de cores, exib
 
 ---
 
-## Estatísticas do GitHub
+## Veja minhas qualificações
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=enyoodsn&show_icons=true&theme=dark"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyoodsn&layout=compact&theme=dark"/>
-</p>
+🔗 https://github.com/enyoodsn/certificados-qualificacoes/
 
 ---
 

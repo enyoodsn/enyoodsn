@@ -7,7 +7,7 @@ Atualmente cursando ADS e UX/UI Design.
 
 ## Sobre mim
 
-Meu nome é Moraes e sou desenvolvedor em formação.
+Meu nome é Enyo Moraes e sou desenvolvedor em formação.
 Tenho experiência com desenvolvimento web utilizando HTML, CSS e JavaScript, além de integração com ferramentas de automação e Inteligência Artificial.
 Gosto de criar interfaces funcionais, projetos visuais e aplicações que unem design e tecnologia.
 

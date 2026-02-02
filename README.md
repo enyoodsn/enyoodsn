@@ -66,11 +66,11 @@ Permite gerar backgrounds personalizados a partir da combinação de cores, exib
 ## Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=enyoodsn&show_icons=true&theme=dark"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyoodsn&layout=compact&theme=dark"/>
 </p>
 
 ---
